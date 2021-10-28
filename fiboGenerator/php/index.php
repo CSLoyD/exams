@@ -1,4 +1,5 @@
 <?php
+exit;
 class Operation{
     public $result=array();
 
